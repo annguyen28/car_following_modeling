@@ -1,4 +1,4 @@
-%% make velocity regression data 
+%% make velocity regression 
 function [data_use] = make_velocity_regression_driver_data(driver_data)
 
 
